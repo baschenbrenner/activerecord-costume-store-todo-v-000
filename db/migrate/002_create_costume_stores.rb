@@ -2,7 +2,7 @@
 
 class CreateCostumeStores
   def change
-    
+
   end
 
 
