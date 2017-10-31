@@ -11,7 +11,7 @@ class CreateCostumeStores < ActiveRecord::Migration
       t.datetime :closing_time
       t.datetime :opening_time
     end
-    
+
   end
 
 
